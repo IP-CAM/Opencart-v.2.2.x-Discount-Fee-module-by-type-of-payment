@@ -1,4 +1,4 @@
-﻿Módulo Desconto/Taxa Por Tipo de Pagamento
+Discount / fee module by type of payment
 =============================
 
 * Módulo total de pedido que permite aplicar uma taxa adicional ou desconto de acordo com a forma de pagamento
