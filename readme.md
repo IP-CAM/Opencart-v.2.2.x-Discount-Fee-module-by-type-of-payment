@@ -1,21 +1,21 @@
 Discount / fee module by type of payment
 =============================
 
-* Módulo total de pedido que permite aplicar uma taxa adicional ou desconto de acordo com a forma de pagamento
+* Total order module that allows you to apply an additional fee or discount according to the payment method
 
 -----------
-#### Versão do módulo
+#### Module version
 * 2.2
 
 ----------------
-#### Tecnologias
+#### Technologies
 
-* [PHP] - versão >= 5.3
-* [OpenCart] - versões compatíveis = 2.2.x
+* [PHP] - version> = 5.3
+* [OpenCart] - compatible versions = 2.2.x
 
 ------------------------------
-#### Instruções de Instalação
+#### Installation Instructions
 
-* 1 -> Envie os arquivos da pasta 'upload' para a raiz da loja respeitando a estrutura de pastas
-* 2 -> Acesse o menu 'Configurações > Usuários > Grupos de Usuários', edite os grupos e marque a permissão 'total/taxa_por_tipo_pagamento'
-* 3 -> Acesse o menu 'Extensões > Total do pedido', instale e configure o módulo 'Desconto/Taxa por Tipo de Pagamento'
+* 1 -> Send the files from the 'upload' folder to the store root respecting the folder structure
+* 2 -> Access the menu 'Settings> Users> User Groups', edit the groups and check the permission 'total / taxa_por_t_pipo_pagamento'
+* 3 -> Access the 'Extensions> Order total' menu, install and configure the 'Discount / Fee by Payment Type' module
